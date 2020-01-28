@@ -1,0 +1,4 @@
+name = "clima_demo"
+uuid = "12cc097d-7b0e-429a-9503-d206b491a66b"
+authors = ["Costa <christopouloscosta@gmail.com>"]
+version = "0.1.0"

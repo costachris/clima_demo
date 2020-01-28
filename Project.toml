@@ -2,3 +2,6 @@ name = "clima_demo"
 uuid = "12cc097d-7b0e-429a-9503-d206b491a66b"
 authors = ["Costa <christopouloscosta@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
